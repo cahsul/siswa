@@ -1,0 +1,20 @@
+{
+    "name": "devbook/siswa",
+    "description": "sebuah project sederhana untuk mempelajari package laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cahsul",
+            "email": "cahsul.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "devbook\\siswa\\": "src/"
+        }
+    }
+}
+
